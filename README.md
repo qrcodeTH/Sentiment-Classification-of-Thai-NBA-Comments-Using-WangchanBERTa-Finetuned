@@ -1,7 +1,7 @@
 # Sentiment Classification of Thai NBA Comments Using WangchanBERTa-Finetuned
 
 ## Introduction
-This project focuses on sentiment classification of Thai NBA comments using transformer models. We utilize WangchanBERTa, a BERT-based model fine-tuned for sentiment analysis, to classify comments into three categories: Positive (POS), Neutral (Neu), and Negative (Neg).
+This project uses the WangchanBERTa transformer model to classify Thai NBA comments into Positive, Neutral, and Negative sentiments. It leverages a dataset of 500 comments sourced from a Facebook fanpage. The model is trained and evaluated using Hugging Face’s tools to provide insights into fan sentiment
 
 ## Dataset
 The dataset consists of 500 Thai comments about the NBA from a Facebook fanpage. The data is stored in an Excel file with the following columns:
