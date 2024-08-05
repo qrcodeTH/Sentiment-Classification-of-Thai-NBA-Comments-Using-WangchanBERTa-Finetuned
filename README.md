@@ -5,18 +5,19 @@ This project focuses on sentiment classification of Thai NBA comments using tran
 
 ## Dataset
 The dataset consists of 500 Thai comments about the NBA from a Facebook fanpage. The data is stored in an Excel file with the following columns:
+
 • text: The comment text.
 
 • label: The sentiment label, which can be 'POS', 'Neu', or 'Neg'.
 
 ## Results
-Accuracy: 72.00 %
+• Accuracy: 72.00 %
 
-Precision: 76.00 %
+• Precision: 76.00 %
 
-Recall: 72.00 %
+• Recall: 72.00 %
 
-F1 Score: 72.75 %
+• F1 Score: 72.75 %
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
